@@ -7,7 +7,7 @@
   Simple Snake game made for a college assignment using Java.
 </p>
 
-Note: Project documentation and code itself (class/method names) were written in Slovak language.
+Note: Project documentation and code itself (class/method names) were written in Slovak language. <b>Code itself is in separated private repository to block any possible attempt of plagiarism from college students.</b>
 
 Original description in Slovak language:
 
